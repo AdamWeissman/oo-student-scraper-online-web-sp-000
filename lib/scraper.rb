@@ -76,7 +76,6 @@ class Scraper
       end
     end
     
-  student
 
 end
 
